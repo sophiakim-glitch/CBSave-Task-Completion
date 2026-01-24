@@ -1,0 +1,24 @@
+Report 4 - Chargeback Upload & Customer Matching
+
+Task Completed:
+  - Created chargreback submission endpoint (single)
+  - Built CSV bulk upload with validation
+  - Implemented intelligent customer matching (email -> phone + name -> name + zip)
+  - Automatic grade calculation (1X - 5X)
+  - Automatic chargeback count updates
+  - View uploaded chargebacks with pagination
+  - Statistics endpoint for analytics
+  - Error handling
+  - CSV validation and error reporting
+
+
+Current API Capabilities:
+  - Register businesses
+  - Authenticate with API keys
+  - Submit single chargebacks
+  - Upload CSV files
+  - Automatically find duplicate customers
+  - Calculate risk grades (1X-5X)
+  - Track chargeback counts
+  - View submission history
+  - Get statistics
