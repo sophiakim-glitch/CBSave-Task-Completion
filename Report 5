@@ -1,0 +1,19 @@
+Report 5 - Screening API Integration
+
+Checklist
+  - Can Register a business
+  - Can screen a customer succesfully
+  - Balance deducts correctly ($0.10 per screening)
+  - Screening logs created
+  - High-risk customers blocked (7+ chargebacks)
+  - API responds in <500ms
+  - Documentation Reviewed
+
+
+Current Capabilities of API:
+  - Works with existing database schema
+  - Uses existing models and CRUD functions
+  - Integrates with chargeback uplaods
+  - Provides real-time risk assessment (<500ms)
+  - comprehensive tests
+  - audit logging
